@@ -1,0 +1,22 @@
+{
+	"setup1": {
+		"job1": "ControllerS01",
+		"job2": "Compute1S01",
+		"job3": "Compute1S02",
+		"job4": "StorageS01",
+		"job5": "InstanceS01"
+	},
+	"setup2": {
+		"job1": "Compute1S01",
+		"job2": "Compute1S02",
+		"job3": "ControllerS01",
+		"job4": "StorageS01",
+		"job5": "InstanceS01"
+	},
+	"setup3": {
+		"job1": "10.161.113.177",
+		"job2": "10.161.113.178",
+		"job3": "10.161.113.179",
+		"job4": "10.161.113.180"
+	}
+}
